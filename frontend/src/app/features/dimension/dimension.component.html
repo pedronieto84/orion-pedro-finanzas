@@ -1,0 +1,31 @@
+<div class="p-8">
+  @if (dimension(); as dim) {
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-4">
+        <span class="text-4xl" [style.filter]="'drop-shadow(0 0 8px ' + dim.color + ')'">{{ dim.icon }}</span>
+        <div>
+          <h1 class="text-3xl font-bold">{{ dim.name }}</h1>
+          <div class="w-12 h-1 rounded-full mt-2" [style.background]="dim.color"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Section Tabs -->
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+      @for (tab of tabs; track tab.key) {
+        <button
+          (click)="goToSection(tab.key)"
+          class="bg-[#1e293b] rounded-xl p-5 text-center hover:ring-2 hover:ring-blue-500/50 transition-all group"
+        >
+          <span class="text-3xl block mb-2">{{ tab.icon }}</span>
+          <span class="text-sm text-slate-300 group-hover:text-white transition-colors">{{ tab.label }}</span>
+        </button>
+      }
+    </div>
+  } @else {
+    <div class="text-center py-20">
+      <p class="text-slate-400">Cargando dimensión...</p>
+    </div>
+  }
+</div>

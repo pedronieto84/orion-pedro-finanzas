@@ -1,0 +1,105 @@
+<div class="p-8">
+  <div class="flex items-center justify-between mb-8">
+    <div>
+      <h1 class="text-3xl font-bold">Dashboard</h1>
+      <p class="text-slate-400 mt-1">Gestiona tus dimensiones de vida</p>
+    </div>
+    <button
+      (click)="openModal()"
+      class="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg text-sm font-medium transition-colors flex items-center gap-2"
+    >
+      <span>＋</span> Nueva Dimensión
+    </button>
+  </div>
+
+  <!-- Dimension Cards Grid -->
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    @for (dim of dimensions(); track dim.id) {
+      <div
+        (click)="goToDimension(dim.id)"
+        class="bg-[#1e293b] rounded-xl p-6 cursor-pointer hover:ring-2 hover:ring-blue-500/50 transition-all group"
+      >
+        <div class="flex items-center gap-4 mb-4">
+          <span
+            class="text-4xl"
+            [style.filter]="'drop-shadow(0 0 8px ' + dim.color + ')'"
+          >{{ dim.icon }}</span>
+          <div>
+            <h3 class="text-lg font-semibold group-hover:text-blue-400 transition-colors">{{ dim.name }}</h3>
+            <div class="w-8 h-1 rounded-full mt-1" [style.background]="dim.color"></div>
+          </div>
+        </div>
+        <p class="text-slate-400 text-sm">Cuentas, tarjetas, proveedores y más</p>
+      </div>
+    }
+
+    @if (dimensions().length === 0) {
+      <div class="col-span-full text-center py-20">
+        <p class="text-6xl mb-4">🌌</p>
+        <h3 class="text-xl font-semibold text-slate-300">Sin dimensiones aún</h3>
+        <p class="text-slate-500 mt-2">Crea tu primera dimensión para empezar</p>
+        <button
+          (click)="openModal()"
+          class="mt-6 px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-medium transition-colors"
+        >
+          Crear Dimensión
+        </button>
+      </div>
+    }
+  </div>
+</div>
+
+<!-- Modal -->
+@if (showModal()) {
+  <div class="fixed inset-0 bg-black/60 flex items-center justify-center z-50" (click)="closeModal()">
+    <div class="bg-[#1e293b] rounded-xl p-6 w-full max-w-md" (click)="$event.stopPropagation()">
+      <h2 class="text-xl font-bold mb-6">Nueva Dimensión</h2>
+
+      <div class="space-y-4">
+        <div>
+          <label class="block text-sm text-slate-400 mb-1">Nombre</label>
+          <input
+            [(ngModel)]="newDimension.name"
+            type="text"
+            placeholder="Ej: Personal, Empresa..."
+            class="w-full px-3 py-2 bg-[#0f172a] border border-slate-600 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+          />
+        </div>
+
+        <div class="flex gap-4">
+          <div class="flex-1">
+            <label class="block text-sm text-slate-400 mb-1">Icono (emoji)</label>
+            <input
+              [(ngModel)]="newDimension.icon"
+              type="text"
+              class="w-full px-3 py-2 bg-[#0f172a] border border-slate-600 rounded-lg text-white text-center text-2xl focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+          <div class="flex-1">
+            <label class="block text-sm text-slate-400 mb-1">Color</label>
+            <input
+              [(ngModel)]="newDimension.color"
+              type="color"
+              class="w-full h-10 bg-[#0f172a] border border-slate-600 rounded-lg cursor-pointer"
+            />
+          </div>
+        </div>
+      </div>
+
+      <div class="flex justify-end gap-3 mt-6">
+        <button
+          (click)="closeModal()"
+          class="px-4 py-2 text-slate-400 hover:text-white transition-colors"
+        >
+          Cancelar
+        </button>
+        <button
+          (click)="createDimension()"
+          class="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg font-medium transition-colors"
+        >
+          Crear
+        </button>
+      </div>
+    </div>
+  </div>
+}
