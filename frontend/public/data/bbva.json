@@ -1,0 +1,3467 @@
+[
+  {
+    "fecha": "28/11/2025",
+    "mes_informe": "Noviembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 4.65,
+    "concepto": "MULTIMON TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "28/11/2025",
+    "mes_informe": "Noviembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 7.99,
+    "concepto": "DECATHLON, S.A.TERRASSA VALLES,AVING",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "30/11/2025",
+    "mes_informe": "Noviembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.57,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "30/11/2025",
+    "mes_informe": "Noviembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 29.04,
+    "concepto": "FAB.NACION.DEMONEDAYT MADRID",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "30/11/2025",
+    "mes_informe": "Noviembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 32.34,
+    "concepto": "MINIMERCATBONPREUS572C CASTELLBISBAL",
+    "categoria": "Alimentación"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202533******3385CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 649.79,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830223004",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 18.92,
+    "concepto": "BIZUM COMPRA:TEMU",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 238.66,
+    "concepto": "ADEUDODESANITAS N202532******4572SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 4.0,
+    "concepto": "ADEUDODESANITAS N202533******3969SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1.0,
+    "concepto": "ADEUDOASUCARGO N202533******5843ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202533******1095ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202533******6483CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202533******1875C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202533******0723LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 750.0,
+    "concepto": "INGRESOENEFECTIVO",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "01/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.55,
+    "concepto": "TERRASSAMOBILITAT, PARKI TERRASSA",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 8.48,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******5235AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 7.1,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******4617AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 5.3,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******1463AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 49.61,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******1483AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.62,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******2141AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.81,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202533******2586AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parkingdiciembre",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.74,
+    "concepto": "BUENASMIGASPARIS PROVENZA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "02/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 19.15,
+    "concepto": "NUNEZURGELL BARCELONA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.91,
+    "concepto": "COLEGIODEREGISTRADORES MADRID",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 8.31,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "05/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 28.15,
+    "concepto": "FREENOW MADRID",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "05/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 13.95,
+    "concepto": "URISSA BARCELONA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "05/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 269.43,
+    "concepto": "DECATHLON, S.A.TERRASSA VALLES,AVING",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "06/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1202.67,
+    "concepto": "Tesla Spain,S.L. Barcelona",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "06/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 6.26,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "07/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 48.0,
+    "concepto": "ESF FONT-ROMEU-OD",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "08/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 14.16,
+    "concepto": "AWAITUNELS BARCELONA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 630.0,
+    "concepto": "APERTURAIMPOSICION ALTA DECARGO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 501.49,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830347548",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 19.0,
+    "concepto": "ADEUDOASUCARGO N202534******5927ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.5,
+    "concepto": "ADEUDODEFUNDACIONESY O.N.G. N202534******6271(SEDE)FUNDACIONEDUCACIONYCOOPERACION",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 26.4,
+    "concepto": "TRANSFERENCIAS DOC/pid-228344668/TXT/BOLT ES",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 843.87,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000449292930001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 134.92,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000449339780001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1000.0,
+    "concepto": "FONDOSDEINVERSION-CARGOPORSUSCRIPCION QUALITYINVER.DECIDI-20557524",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "09/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 270.0,
+    "concepto": "FONDOSDEINVERSION-CARGOPORSUSCRIPCION BBVAGLOBALDESARROL-20557526",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "10/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 700.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJERO 281900******789301828190758LIBRETA",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "10/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 40.0,
+    "concepto": "ADEUDOASUCARGO N202534******2517ALIANCACATALANA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "10/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 393.53,
+    "concepto": "ADEUDOASUCARGO N202534******0784NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "10/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 584.83,
+    "concepto": "ADEUDODEENTIDADFINANCIERA N202534******7135CAIXABANKPAYMENTS CONSUMER,E.f.c.,E",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "11/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 19.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202534******7892Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "11/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 28.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202534******0524Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 7.95,
+    "concepto": "ADEUDODEVODAFONE N202534******0180VodafoneServicios,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 73.0,
+    "concepto": "TRANSFERENCIAS PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "12/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 17.49,
+    "concepto": "STEAMPURCHASE HAMBURG",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "15/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 49.87,
+    "concepto": "ADEUDOASUCARGO N202534******4126TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "15/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 48.0,
+    "concepto": "ADEUDODETELEFONICA N202534******9320TELEFONICADEESPANASAU CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "15/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 55.43,
+    "concepto": "ADEUDOASUCARGO N202534******8743TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "15/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 190.51,
+    "concepto": "ADEUDOASUCARGO N202534******6019TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "15/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 254.49,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000452379270001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 34.91,
+    "concepto": "ADEUDOASUCARGO N202535******0025ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "16/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 3000.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJA OF.8190",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 346.94,
+    "concepto": "BIZUM ENVIADO:BizumenviadodesdeBlue",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 76.81,
+    "concepto": "ADEUDOASUCARGO N202535******7152ENIPLENITUDEIBERIAS.L.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 60.0,
+    "concepto": "ADEUDOASUCARGO N202534******0313AV.JACQUARD,97PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 60.0,
+    "concepto": "ADEUDOASUCARGO N202534******0314AV.JACQUARD,97PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 61.45,
+    "concepto": "ADEUDOASUCARGO N202534******0315AV.JACQUARD,97PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "17/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 546.27,
+    "concepto": "COMPRADEVALORES 18565918-A.ALPHABETINCCLASE",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "18/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 10.0,
+    "concepto": "BIZUM ENVIADO:LoteriaPedro",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "19/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2900.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJA OF.8190",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "22/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 33.34,
+    "concepto": "ADEUDOASUCARGO N202535******4625TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "22/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 800.0,
+    "concepto": "RET.EFECTIVO ADEBITOCONTARJ. ENCAJERO.AUT.",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "26/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 1066.61,
+    "concepto": "PENSION 39116743E",
+    "categoria": "Pensión"
+  },
+  {
+    "fecha": "30/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 51.34,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202535******0111AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "30/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 9.88,
+    "concepto": "SERGI GUDAURI",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "31/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 381.54,
+    "concepto": "ADEUDODEMUTUAMADRILEÑAAUTOMOVIL N202536******7181MUTUAMADRILENAAUTOMOVILISTA",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "31/12/2025",
+    "mes_informe": "Diciembre 2025",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 931.43,
+    "concepto": "ADEUDOASUCARGO N202536******2520WIZINKBANKS.A.U.",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202536******8148CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parkingenero",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 238.66,
+    "concepto": "ADEUDODESANITAS N202535******2306SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 8.0,
+    "concepto": "ADEUDODESANITAS N202536******7105SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202600******6915ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202600******8175LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202536******8150CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202600******0936C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 154.19,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000459851370001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202600******7940RAMONYCAJAL,251,PKG",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 120.0,
+    "concepto": "ADEUDOASUCARGO N202536******7224AV.JACQUARD,97PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2818.45,
+    "concepto": "ADEUDOMENSUALDETARJETA",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "FONDOSDEINVERSION-CARGOPORSUSCRIPCIONPERIODICA QUALITYINVER.DECIDI-20557524",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "05/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 498.27,
+    "concepto": "ELITESKIRESORTLTD KHULO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "06/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 104.0,
+    "concepto": "WIZZAIR RS4F2E WIZZAIR.COM",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 30.23,
+    "concepto": "ADEUDOASUCARGO N202600******2177VILAACTIVASERVEISINMOBILIARISS.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 11.17,
+    "concepto": "ADEUDODEGAS N202600******8521COMERCIALIZADORAREGULADA,GAS POWECPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 30.0,
+    "concepto": "ADEUDOASUCARGO N202600******8671CDAD:CONCHAESPINA1LAVILETA-FYN0000",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 501.49,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830347548",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 854.0,
+    "concepto": "TRANSFERENCIAS ENERO",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.2,
+    "concepto": "GateRetailWizzEUR Luton",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "07/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 59.02,
+    "concepto": "DUTYFREE QUTAISI",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "08/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 160.0,
+    "concepto": "ADEUDOASUCARGO N202600******5771ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "08/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 100.0,
+    "concepto": "SUMUP *VTCTRANSFERVIP TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "08/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.45,
+    "concepto": "ESTACION DELCAFE TERRASSA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "08/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "LAPOSADADEPIERA,S.L. BARCELONA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "09/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.5,
+    "concepto": "ADEUDODEFUNDACIONESY O.N.G. N202600******0045(SEDE)FUNDACIONEDUCACIONYCOOPERACION",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1171.15,
+    "concepto": "Tesla Spain,S.L. Barcelona",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "09/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 770.0,
+    "concepto": "SUMUP *VTCTRANSFERVIP TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 42.47,
+    "concepto": "EST.SERVIC. COLONTERRASA VENT-IDOS-DE",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "09/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 99.99,
+    "concepto": "SATURNE515ELECTROSA PRATDELLOBR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "12/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 5.0,
+    "concepto": "BIZUM ENVIADO:Oedr",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "12/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 584.83,
+    "concepto": "ADEUDODEENTIDADFINANCIERA N202601******9131CAIXABANKPAYMENTS CONSUMER,E.f.c.,E",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "12/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 73.0,
+    "concepto": "TRANSFERENCIAS PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "12/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 69.78,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000463466450001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "13/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 19.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202601******5981Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 68.0,
+    "concepto": "TRANSFERENCIAS ParkingRamonycajalDavidenero",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "13/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 48.0,
+    "concepto": "ADEUDODETELEFONICA N202600******3650TELEFONICADEESPANASAU CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 28.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202601******7821Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 60.0,
+    "concepto": "ADEUDOASUCARGO N202601******6652ALIANCACATALANA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "14/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 7.95,
+    "concepto": "ADEUDODEVODAFONE N202601******6980VodafoneServicios,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "16/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 800.0,
+    "concepto": "RET.EFECTIVO ADEBITOCONTARJ. ENCAJERO.AUT.",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "19/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 30.0,
+    "concepto": "TRANSFERENCIAS ParkingLis",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "26/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 1095.41,
+    "concepto": "PENSION 39116743E",
+    "categoria": "Pensión"
+  },
+  {
+    "fecha": "27/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 244.47,
+    "concepto": "ADEUDODEELECTRICIDAD N202602******3862Regsiti,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "27/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 31.5,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "29/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1765.25,
+    "concepto": "ABONODENOMINAPORTRANSFERENCIA Sueldo/Salar00025501/202601",
+    "categoria": "Nómina"
+  },
+  {
+    "fecha": "29/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1204.61,
+    "concepto": "ABONODENOMINAPORTRANSFERENCIA Sueldo/Salar00025501/202601",
+    "categoria": "Nómina"
+  },
+  {
+    "fecha": "29/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 30.0,
+    "concepto": "TRANSFERENCIAS CCP63-3",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 68.0,
+    "concepto": "TRANSFERENCIAS ParkingDavidRamonycajalfebrero",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 164.38,
+    "concepto": "CARGOPORPAGODEIMPUESTOS-TRIBUTOS NRC.1316340240126AL0VE13MV",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 510.0,
+    "concepto": "CARGOPORPAGODEIMPUESTOS-TRIBUTOS NRC.3036392809100PNR5YV6T4",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 388.95,
+    "concepto": "ADEUDODECUOTADELASEGURIDADSOCIAL N202602******7319TGSS.COTIZACION005R.E.AUTONOMOS",
+    "categoria": "Autónomos"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 946.39,
+    "concepto": "ADEUDOASUCARGO N202602******7812WIZINKBANKS.A.U.",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "30/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 36.23,
+    "concepto": "EST.SERVIC. COLONTERRASA VENT-IDOS-DE",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "31/01/2026",
+    "mes_informe": "Enero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 69.98,
+    "concepto": "SATURNE515ELECTROSA PRATDELLOBR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 20.0,
+    "concepto": "TEDDYPARKBCN TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.95,
+    "concepto": "TEDDYPARKBCN TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.5,
+    "concepto": "TEDDYPARKBCN TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.64,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS ParkingLis",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202603******8330CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 649.79,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830223004",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 4089.8,
+    "concepto": "TRANSFERENCIAS PRESUPUESTO2025/038",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 279.41,
+    "concepto": "ADEUDODESANITAS N202602******8489SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.0,
+    "concepto": "ADEUDODESANITAS N202602******6319SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202603******9062C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202603******7671LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202603******4882ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202603******2777NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202603******4577CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 72.28,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000472240250001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 148.66,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000472373550001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 73.04,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 192.92,
+    "concepto": "ADEUDODEELECTRICIDAD N202603******4422Repsol,S.L.U-Gas CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "02/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 69.98,
+    "concepto": "SATURNE515ELECTROSA PRATDELLOBR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parkingfebrero",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 700.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJA OF.8190",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 30.0,
+    "concepto": "ADEUDOASUCARGO N202603******7134CDAD:CONCHAESPINA1LAVILETA-FYN0000",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 854.0,
+    "concepto": "TRANSFERENCIAS FEBRERO2026",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.4,
+    "concepto": "QUATRE28 BARCELONA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.7,
+    "concepto": "QUATRE28 BARCELONA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "03/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 4.2,
+    "concepto": "365T111 PAGES,PASSAT",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 103.16,
+    "concepto": "ADEUDODEENDESA N202603******0326ENDESAENERGIAS.A. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "04/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 19.0,
+    "concepto": "ADEUDOASUCARGO N202603******6838ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "04/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 304.48,
+    "concepto": "ADEUDODEELECTRICIDAD N202603******8608Repsol,S.L.U-Gas CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "04/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 0.95,
+    "concepto": "MENJADORRCTEMUNDETDIBA PROVENZA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 8.15,
+    "concepto": "VIVARI BARCELONA",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "05/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 3681.67,
+    "concepto": "ADEUDOMENSUALDETARJETA",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "05/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 4.75,
+    "concepto": "PARKINGVAPORGRAN VENT-I-DOSDE",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 0.2,
+    "concepto": "EGARVIASA TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "07/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 14.56,
+    "concepto": "TUNELSPANBarreraCadiN BARCELONA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "07/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 58.0,
+    "concepto": "LAMOLINA MOLINALA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 501.49,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830347548",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 80.0,
+    "concepto": "ADEUDOASUCARGO N202604******3891C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 24.8,
+    "concepto": "TRANSFERENCIAS DOC/pid-237113911/TXT/BOLT ES",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 169.5,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000475413300001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 67.46,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000475441330001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 34.8,
+    "concepto": "EST.SERVIC. COLONTERRASA VENT-IDOS-DE",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 15.06,
+    "concepto": "CLAREL VALLES,AVING",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 0.6,
+    "concepto": "PARKINGVAPORGRAN VENT-I-DOSDE",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "10/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 5.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "11/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 19.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202604******4396Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 52.27,
+    "concepto": "ADEUDODEGAS N202604******1052COMERCIALIZADORAREGULADA,GAS POWECPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 48.97,
+    "concepto": "ADEUDODETELEFONICA N202604******7820TELEFONICADEESPANASAU CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 7.95,
+    "concepto": "ADEUDODEVODAFONE N202604******4853VodafoneServicios,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "16/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 80.0,
+    "concepto": "TRANSFERENCIAS PLAZA1-4Y1-5.PEDRONIETOSaNCHEZYJULIASaNCHEZSaNCHEZ",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 20.0,
+    "concepto": "BIZUM ENVIADO:Pedro",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 178.73,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000478205970001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 67.46,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000478253870001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "17/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2871.48,
+    "concepto": "ADEUDODESEGUROS N202604******0013MMTSeguros",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "17/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 83.59,
+    "concepto": "ADEUDOASUCARGO N202604******0880ENIPLENITUDEIBERIAS.L.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "17/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 11.92,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "23/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 3.0,
+    "concepto": "BIZUM COMPRA:TPVESIMFLAGEUR",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "23/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 105.83,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000480980260001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "23/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 72.28,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000480994160001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "24/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 200.36,
+    "concepto": "ADEUDODEELECTRICIDAD N202605******4138Regsiti,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "25/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 1095.41,
+    "concepto": "PENSION 39116743E",
+    "categoria": "Pensión"
+  },
+  {
+    "fecha": "26/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 2957.86,
+    "concepto": "ABONODENOMINAPORTRANSFERENCIA Sueldo/Salar00025501/202602",
+    "categoria": "Nómina"
+  },
+  {
+    "fecha": "26/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 9.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "27/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 388.95,
+    "concepto": "ADEUDODECUOTADELASEGURIDADSOCIAL N202605******8037TGSS.COTIZACION005R.E.AUTONOMOS",
+    "categoria": "Autónomos"
+  },
+  {
+    "fecha": "27/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 60.68,
+    "concepto": "ADEUDOASUCARGO N202605******1370NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "27/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 124.06,
+    "concepto": "ADEUDOASUCARGO N202605******1434WIZINKBANKS.A.U.",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "27/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 18.0,
+    "concepto": "TEDDYPARKBCN TERRASSA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "28/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "28/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 12.99,
+    "concepto": "UDEMY:ONLINECOURSES DUBLIN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "28/02/2026",
+    "mes_informe": "Febrero 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.99,
+    "concepto": "TOGGLE.ORG*GZ13EJ2V5W ORDER.TOGGLE.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS ParkingLis",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202605******8237CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 8.65,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******0029AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 7.27,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******7053AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 5.43,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******3335AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.94,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******4421AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 51.91,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******4004AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.75,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******8640AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 274.47,
+    "concepto": "ADEUDODESANITAS N202605******9586SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202606******7199LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202605******6681CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202606******7442C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202606******0159ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 19.0,
+    "concepto": "ADEUDOASUCARGO N202606******0420ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 58.25,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000484123000001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 134.92,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000484163770001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 257.36,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******2044AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 277.8,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202606******4835AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "02/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2442.99,
+    "concepto": "TRANSFERENCIAS PRESTAMO2.PEDRONIETOSaNCHEZ",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "03/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parking marzo",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "03/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "03/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 11.59,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "03/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 77.1,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000484996890001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "03/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 1.6,
+    "concepto": "BUENASMIGASSANTPERE MENDEZNUÑEZ",
+    "categoria": "Restaurante"
+  },
+  {
+    "fecha": "04/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 872.0,
+    "concepto": "TRANSFERENCIAS MARZO2026",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "04/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2.0,
+    "concepto": "COMISIONESPORSERVICIOS COMISIONPOREMISIONDECERTIFICADO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 5.06,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "04/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 0.95,
+    "concepto": "MENJADORRCTEMUNDETDIBA PROVENZA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.96,
+    "concepto": "AMBRECARREGA BILBAO/BILBO",
+    "categoria": "Transporte"
+  },
+  {
+    "fecha": "05/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 947.73,
+    "concepto": "ADEUDOMENSUALDETARJETA",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "05/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "FONDOSDEINVERSION-CARGOPORSUSCRIPCIONPERIODICA QUALITYINVER.DECIDI-20557524",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.5,
+    "concepto": "ADEUDODEFUNDACIONESY O.N.G. N202606******5392(SEDE)FUNDACIONEDUCACIONYCOOPERACION",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 69.08,
+    "concepto": "ADEUDODEEMPRESADESEGURIDAD N202606******2609SECURITASDIRECTESPANAS.A.U.",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 5.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "06/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 22.0,
+    "concepto": "HIJUMPTERRASSA TERRASSA",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "07/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "08/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 34.0,
+    "concepto": "TRIOPORTEPUYMOREN PORTE-PUYMOR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "09/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 1000.0,
+    "concepto": "TRASPASO LODELMES",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 68.0,
+    "concepto": "TRANSFERENCIAS ParkingDavidcalleRamonycajal",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "09/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1000.0,
+    "concepto": "TRASPASO LODELMES",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "09/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 501.49,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830347548",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "09/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 113.66,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000487450370001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "11/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 19.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202606******2510Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "11/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1.0,
+    "concepto": "ADEUDODETELEFONIAMOVIL N202607******2544Simyo CPVR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "12/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 12.51,
+    "concepto": "ADEUDODEAGUA N202607******2497MINAPUBLICAD'AIGUESDETERRASSA,SA",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 12.51,
+    "concepto": "ADEUDODEAGUA N202607******2515MINAPUBLICAD'AIGUESDETERRASSA,SA",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.51,
+    "concepto": "ADEUDODEAGUA N202607******6379MINAPUBLICAD'AIGUESDETERRASSA,SA",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "12/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.51,
+    "concepto": "ADEUDODEAGUA N202607******2211MINAPUBLICAD'AIGUESDETERRASSA,SA",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDODETELEFONICA N202607******2862TELEFONICADEESPANASAU CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 7.95,
+    "concepto": "ADEUDODEVODAFONE N202607******3025VodafoneServicios,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 378.38,
+    "concepto": "ADEUDODEAXASEGUROSGENERALES N202607******0361AXASEGUROSGENERALES CIFA-60917978",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "16/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 31.27,
+    "concepto": "ADEUDOASUCARGO N202607******6486ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "16/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 77.1,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000490220180001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 124.26,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000490258570001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "16/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 378.38,
+    "concepto": "ANULACIONADEUDOSDIRECTOS N202607******0361AXASEGUROSGENERALES CIFA-60917978",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "17/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 17.89,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "18/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 48.0,
+    "concepto": "ADEUDOASUCARGO N202607******7688ENIPLENITUDEIBERIAS.L.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "19/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2.0,
+    "concepto": "COMISIONESPORSERVICIOS COMISIONPOREMISIONDECERTIFICADO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "23/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 42.68,
+    "concepto": "ADEUDOASUCARGO N202607******0461TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "23/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 90.89,
+    "concepto": "TRANSFERENCIAS LIQUIDACIoIBIPARKINGS3I6AVDA.JACQUARD99",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "23/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 66.06,
+    "concepto": "ADEUDOASUCARGO N202607******5944TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "23/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 197.22,
+    "concepto": "ADEUDOASUCARGO N202607******8607TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "23/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 230.04,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000493140620001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "24/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 48.05,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-25",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "25/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 1095.41,
+    "concepto": "PENSION 39116743E",
+    "categoria": "Pensión"
+  },
+  {
+    "fecha": "25/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 243.32,
+    "concepto": "ADEUDODEELECTRICIDAD N202608******5171Regsiti,S.L.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "25/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 33.5,
+    "concepto": "ADEUDODECOMUNIDADDEPROPIETARIOSYVE N202608******1489CDAD.PROP.C/CASTELLFIRARDON.3",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "25/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 42.9,
+    "concepto": "TRANSFERENCIAS IBI2026",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "25/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 2422.5,
+    "concepto": "TRANSFERENCIAS 19.3.2026",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "26/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 4561.44,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202608******2518AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "26/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 32.63,
+    "concepto": "TRANSFERENCIAS CBFYF202600001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "27/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 83.68,
+    "concepto": "ADEUDODEENDESA N202608******1611ENDESAENERGIAS.A. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "27/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 2591.85,
+    "concepto": "ABONODENOMINAPORTRANSFERENCIA Sueldo/Salar00025501/202603",
+    "categoria": "Nómina"
+  },
+  {
+    "fecha": "27/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 48.52,
+    "concepto": "ADEUDOASUCARGO N202608******6742NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "27/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 13440.44,
+    "concepto": "TRANSFERENCIAS 8047400,45638463T, PEDRONIETOSANCHEZ",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 52.35,
+    "concepto": "ADEUDOASUCARGO N202608******2107TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 1000.0,
+    "concepto": "TRASPASO DEMIMADRE",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 30.0,
+    "concepto": "BIZUM RECIBIDO:Sinconcepto",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1000.0,
+    "concepto": "TRASPASO DEMIMADRE",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1900.0,
+    "concepto": "INGRESOENEFECTIVO",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "30/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 8.69,
+    "concepto": "POWERDOT MADRID",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "31/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 16.39,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "31/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 17.38,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "31/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 4.8,
+    "concepto": "VALENCIAALCASSER ALCASSER",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "31/03/2026",
+    "mes_informe": "Marzo 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 3.95,
+    "concepto": "PARKINGMERCADOTNA BENIDORM",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202609******5892CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 31.74,
+    "concepto": "ADEUDOASUCARGO N202609******9781VILAACTIVASERVEISIMMOBILIARISSL",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parking abril",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS ParkingLis",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202609******2552ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202609******3362C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202609******4944CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202609******5926LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 32.03,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-26",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 274.47,
+    "concepto": "ADEUDODESANITAS N202608******7742SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 10.09,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 7.3,
+    "concepto": "CETURSASIERRANEVADAS.A SIERRANEVADA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "01/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 5.1,
+    "concepto": "AUTOPISTA DELSURESTE(AU ALICANTE/ALAC",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "02/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "02/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 2916.35,
+    "concepto": "ADEUDOMENSUALDETARJETA",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "03/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 5.0,
+    "concepto": "EUROCHARGER ELCHE",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "03/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 21.65,
+    "concepto": "IBERDROLASMARTMOBILITY BILBAO/BILBO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.99,
+    "concepto": "GooglePlayApps Dublin",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 17.96,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "04/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 15.0,
+    "concepto": "WWW.ENDESAX.COM MADRID",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "04/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 3.16,
+    "concepto": "IBERDROLASMARTMOBILITY BILBAO/BILBO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 2.0,
+    "concepto": "CONSTRUCCIONESABREUS.A. CACERES",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "05/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 16.69,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "05/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 15.64,
+    "concepto": "Tesla Spain,S.L. BARCELONA",
+    "categoria": "Gasolina"
+  },
+  {
+    "fecha": "05/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "Tarjeta 2437",
+    "tipo": "GASTO",
+    "importe": 0.84,
+    "concepto": "WWW.ENDESAX.COM MADRID",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "06/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 68.0,
+    "concepto": "TRANSFERENCIAS ParkingDavidRamonycajalabril",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 84.99,
+    "concepto": "TRANSFERENCIAS ErrorCargo84,99",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "06/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 5.0,
+    "concepto": "COMISIONESPORSERVICIOS COMISIONPOREMISIONDECERTIFICADO",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "06/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 14000.0,
+    "concepto": "TRANSFERENCIAS DELBBVA",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "06/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 1514.34,
+    "concepto": "OPERACIÓNDECRIPTOACTIVOS",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 120.0,
+    "concepto": "ADEUDOASUCARGO N202609******3495C.P. AV.JACQUARD,97PARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202609******2793RAMONYCAJAL,251PK",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 156.79,
+    "concepto": "ADEUDODEELECTRICIDAD N202609******7307Repsol,S.L.U-Gas CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 501.49,
+    "concepto": "CARGOPORAMORTIZACIONDEPRESTAMO/CREDITO 0182-8190-21-0830347548",
+    "categoria": "Préstamo"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 69.1,
+    "concepto": "ADEUDODEEMPRESADESEGURIDAD N202609******7324SECURITASDIRECTESPANAS.A.U.",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 134.92,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000499080790001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "07/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "FONDOSDEINVERSION-CARGOPORSUSCRIPCIONPERIODICA QUALITYINVER.DECIDI-20557524",
+    "categoria": "Inversión"
+  },
+  {
+    "fecha": "08/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "08/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 411.98,
+    "concepto": "ADEUDOASUCARGO N202609******2530NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "08/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 12.5,
+    "concepto": "ADEUDODEFUNDACIONESY O.N.G. N202609******0983(SEDE)FUNDACIONEDUCACIONYCOOPERACION",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "08/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 872.0,
+    "concepto": "TRANSFERENCIAS ABRIL2026",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "10/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 20.48,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202609******9985Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "10/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 28.95,
+    "concepto": "ADEUDODETELECOMUNICACIONESEINTERNET N202609******2555Jazztel CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "10/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1.0,
+    "concepto": "ADEUDODETELEFONIAMOVIL N202610******0598Simyo CPVR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "10/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1.0,
+    "concepto": "ADEUDODETELEFONIAMOVIL N202610******9808Simyo CPVR",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "13/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDODETELEFONICA N202609******0088TELEFONICADEESPANASAU CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 174.0,
+    "concepto": "ADEUDOASUCARGO N202610******9563C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "13/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 402.93,
+    "concepto": "ADEUDOASUCARGO N202609******4529TerrassaCicledelAigua,EPELS.A.",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "13/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 2000.0,
+    "concepto": "INGRESOENEFECTIVO",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "15/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 700.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJERO 281900******789301828190032LIBRETA",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 1095.41,
+    "concepto": "PENSION 39116743E",
+    "categoria": "Pensión"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 15.0,
+    "concepto": "ADEUDOASUCARGO N202611******7439TMESA",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 250.0,
+    "concepto": "TRANSFERENCIAS camara",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 500.0,
+    "concepto": "TRANSFERENCIAS Vacacionesdevolucionhotel",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 910.0,
+    "concepto": "TRANSFERENCIAS FACT003",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 86.73,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000307905100001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "27/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 274.1,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000308099930001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "28/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 2500.38,
+    "concepto": "ABONODENOMINAPORTRANSFERENCIA Sueldo/Salar00025501/202604",
+    "categoria": "Nómina"
+  },
+  {
+    "fecha": "28/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 39.51,
+    "concepto": "ADEUDOASUCARGO N202611******2034NaturgyClientes,S.A.U. CPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "29/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 91.93,
+    "concepto": "TRANSFERENCIAS FreenowCreditfactura999-26",
+    "categoria": "Taxi/VTC"
+  },
+  {
+    "fecha": "30/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 22.12,
+    "concepto": "ADEUDODEGAS N202611******5284COMERCIALIZADORAREGULADA,GAS POWECPVR",
+    "categoria": "Suministros"
+  },
+  {
+    "fecha": "30/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 388.95,
+    "concepto": "ADEUDODECUOTADELASEGURIDADSOCIAL N202611******7824TGSS.COTIZACION005R.E.AUTONOMOS",
+    "categoria": "Autónomos"
+  },
+  {
+    "fecha": "30/04/2026",
+    "mes_informe": "Abril 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 615.72,
+    "concepto": "ADEUDOASUCARGO N202611******5987WIZINKBANKS.A.U.",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS ParkingLis",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202611******4557CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 60.0,
+    "concepto": "TRANSFERENCIAS parking mayo",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 700.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJA OF.8190",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 100.0,
+    "concepto": "DISPOSICIONDEEFECTIVOENCAJA OF.8190",
+    "categoria": "Retirada Efectivo"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.94,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******5084AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 8.65,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******5689AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 51.91,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******4265AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 5.43,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******7497AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 7.27,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******0590AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "GASTO",
+    "importe": 4.75,
+    "concepto": "ADEUDODERECAUDACIONMUNICIPAL N202612******3334AJUNTAMENTDETERRASSA",
+    "categoria": "Impuestos"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 274.47,
+    "concepto": "ADEUDODESANITAS N202611******0557SANITASSA DESEGUROS",
+    "categoria": "Seguros"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 50.0,
+    "concepto": "ADEUDOASUCARGO N202611******2354CTAT.PROP.GUADALHORCE 20STA.EULALIA367",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 15.98,
+    "concepto": "ADEUDOASUCARGO N202612******6438C.PROP.GUADALHORCE,12",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 70.0,
+    "concepto": "ADEUDOASUCARGO N202612******3196LATERALTHINKINGCODE,S.L.",
+    "categoria": "Otros"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 130.0,
+    "concepto": "ADEUDOASUCARGO N202612******5545ESCOLAANDERSEN",
+    "categoria": "Educación"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 96.37,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000310942040001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "04/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "INGRESO",
+    "importe": 82.88,
+    "concepto": "ABONOPORTRANSFERENCIAASUFAVOR RECIBIDAENEUROS LIQ.OP.Nº 000311101890001",
+    "categoria": "Transferencia"
+  },
+  {
+    "fecha": "05/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 50.0,
+    "concepto": "TRANSFERENCIAS LLOGUERPARKING",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "05/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 68.0,
+    "concepto": "TRANSFERENCIAS ParkingmayoDavid",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "05/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "3672",
+    "tipo": "GASTO",
+    "importe": 1993.95,
+    "concepto": "ADEUDOMENSUALDETARJETA",
+    "categoria": "Tarjeta"
+  },
+  {
+    "fecha": "06/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PAKINGPLACA7",
+    "categoria": "Alquiler/Parking"
+  },
+  {
+    "fecha": "06/05/2026",
+    "mes_informe": "Mayo 2026",
+    "cuenta": "5283",
+    "tipo": "INGRESO",
+    "importe": 70.0,
+    "concepto": "TRANSFERENCIAS PARKINGPLACA8",
+    "categoria": "Alquiler/Parking"
+  }
+]

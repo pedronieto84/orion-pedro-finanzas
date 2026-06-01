@@ -84,7 +84,7 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
   constructor(private http: HttpClient) {}
 
   ngOnInit() {
-    this.http.get<Movimiento[]>('assets/data/bbva.json').subscribe(data => {
+    this.http.get<Movimiento[]>('data/bbva.json').subscribe(data => {
       this.allData = data;
       this.meses = [...new Set(data.map(d => d.mes_informe))];
       this.categorias = [...new Set(data.map(d => d.categoria))].sort();
