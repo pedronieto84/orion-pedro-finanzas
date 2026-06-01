@@ -6,4 +6,5 @@ export const routes: Routes = [
   { path: 'dimension/:id', loadComponent: () => import('./features/dimension/dimension.component').then(m => m.DimensionComponent) },
   { path: 'dimension/:id/:section', loadComponent: () => import('./features/dimension/section/section.component').then(m => m.SectionComponent) },
   { path: 'settings', loadComponent: () => import('./features/settings/settings.component').then(m => m.SettingsComponent) },
+  { path: 'finanzas', loadComponent: () => import('./features/finanzas/finanzas.component').then(m => m.FinanzasComponent) },
 ];

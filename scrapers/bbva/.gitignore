@@ -1,0 +1,5 @@
+node_modules/
+.env
+debug.html
+debug.png
+error.png
