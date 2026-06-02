@@ -171,6 +171,19 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
   // helpers
   cuentaLabel(c: string): string { return CUENTA_MAP[c] || c; }
 
+  cuentaShort(c: string): string {
+    if (c === '5283') return 'Mamá';
+    if (c === '3672') return 'Pedro';
+    if (c === 'Tarjeta 2437') return 'Tarjeta';
+    return c;
+  }
+
+  shortDate(fecha: string): string {
+    // fecha is DD/MM/YYYY, return DD/MM
+    const parts = fecha.split('/');
+    return parts.length >= 2 ? parts[0] + '/' + parts[1] : fecha;
+  }
+
   cuentaBadgeClass(c: string): string {
     if (c === '5283') return 'bg-purple-100 text-purple-800';
     if (c === '3672') return 'bg-blue-100 text-blue-800';
