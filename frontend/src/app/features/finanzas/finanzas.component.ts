@@ -218,7 +218,8 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
     if (!this.chartBarRef?.nativeElement) return;
     this.barChart?.destroy();
 
-    const gastos = this.filtered.filter(r => r.tipo === 'GASTO');
+    // Use allData for charts (not filtered) so charts always show full picture
+    const gastos = this.allData.filter(r => r.tipo === 'GASTO');
     const meses = [...new Set(gastos.map(r => r.mes_informe))];
     // sort months chronologically
     meses.sort((a, b) => {
@@ -250,20 +251,21 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
     if (!this.chartLineRef?.nativeElement) return;
     this.lineChart?.destroy();
 
-    const meses = [...new Set(this.filtered.map(r => r.mes_informe))];
+    // Use allData for charts (not filtered) so charts always show full picture
+    const meses = [...new Set(this.allData.map(r => r.mes_informe))];
     meses.sort((a, b) => {
-      const ga = this.filtered.find(r => r.mes_informe === a)!;
-      const gb = this.filtered.find(r => r.mes_informe === b)!;
+      const ga = this.allData.find(r => r.mes_informe === a)!;
+      const gb = this.allData.find(r => r.mes_informe === b)!;
       return this.parseDateStr(ga.fecha) - this.parseDateStr(gb.fecha);
     });
 
-    const cuentas = [...new Set(this.filtered.map(r => r.cuenta))];
+    const cuentas = [...new Set(this.allData.map(r => r.cuenta))];
     const colors = ['#8b5cf6', '#3b82f6', '#f97316', '#10b981'];
 
     const datasets = cuentas.map((c, i) => ({
       label: this.cuentaLabel(c),
       data: meses.map(m => {
-        const rows = this.filtered.filter(r => r.mes_informe === m && r.cuenta === c);
+        const rows = this.allData.filter(r => r.mes_informe === m && r.cuenta === c);
         const ing = rows.filter(r => r.tipo === 'INGRESO').reduce((s, r) => s + r.importe, 0);
         const gas = rows.filter(r => r.tipo === 'GASTO').reduce((s, r) => s + r.importe, 0);
         return ing - gas;
