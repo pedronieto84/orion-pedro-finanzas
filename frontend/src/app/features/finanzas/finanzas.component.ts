@@ -95,6 +95,10 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
   ngAfterViewInit() {
     this.viewReady = true;
     // charts will be created once data arrives via applyFilters
+    // Also trigger if data already loaded
+    if (this.allData.length > 0) {
+      setTimeout(() => this.renderCharts(), 50);
+    }
   }
 
   ngOnDestroy() {
@@ -201,12 +205,17 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
 
   // Charts
   private renderCharts() {
+    // Retry if canvas refs aren't ready yet (Angular rendering timing)
+    if (!this.chartBarRef?.nativeElement || !this.chartLineRef?.nativeElement) {
+      setTimeout(() => this.renderCharts(), 100);
+      return;
+    }
     this.renderBarChart();
     this.renderLineChart();
   }
 
   private renderBarChart() {
-    if (!this.chartBarRef) return;
+    if (!this.chartBarRef?.nativeElement) return;
     this.barChart?.destroy();
 
     const gastos = this.filtered.filter(r => r.tipo === 'GASTO');
@@ -238,7 +247,7 @@ export class FinanzasComponent implements OnInit, AfterViewInit, OnDestroy {
   }
 
   private renderLineChart() {
-    if (!this.chartLineRef) return;
+    if (!this.chartLineRef?.nativeElement) return;
     this.lineChart?.destroy();
 
     const meses = [...new Set(this.filtered.map(r => r.mes_informe))];
